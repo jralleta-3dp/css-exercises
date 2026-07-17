@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.first {
+    background-color: rgb(255, 121, 132);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.second {
+    font-size: 24px;
+}
+
+#idone {
+    color: rgb(000, 000, 255);
+    font-size: 36px;
+}
+
+#idtwo {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(127, 255, 155);
+}
